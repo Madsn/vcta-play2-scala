@@ -1,8 +1,8 @@
 import play.Project._
 
-name := """hello-play-scala"""
+name := """vcta-play2-scala"""
 
-version := "1.0-SNAPSHOT"
+version := "0.1-dev"
 
 libraryDependencies ++= Seq(
   "org.webjars" %% "webjars-play" % "2.2.0", 
