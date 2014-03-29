@@ -9,4 +9,6 @@ libraryDependencies ++= Seq(
   "org.webjars" % "bootstrap" % "2.3.1"
 )
 
+libraryDependencies += jdbc
+
 playScalaSettings
